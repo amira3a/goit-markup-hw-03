@@ -54,10 +54,9 @@ body {
 .header-container{
     display: flex;
     align-items: center;
-    margin-right: 0px;
 }
 .header-logo {
-    padding: 24px 45px 25px 0px;
+    
     font-family: 'Raleway';
     font-weight: 700;
     font-size: 26px;
@@ -262,16 +261,11 @@ body {
 .button-section{
     padding-bottom: 0px;
 }
-.button-container{
-    display: flex;
-    align-items: center;
-    
-}
+
 
 .button-section-list{
     display: flex;
     justify-content: center;
-    margin-left: 305px;
     
     
 }
@@ -307,11 +301,7 @@ body {
     
     
 }
-.cards-container{
-    display: flex;
-    align-items: center;
-    margin: 0;
-}  
+
 .cards-section-list{
     margin: 0px;
     display: flex;
