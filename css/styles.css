@@ -288,7 +288,8 @@ body {
 
 .button:hover,
 .button:focus{
-    color:rgb(194, 22, 122);
+        color: var(--secondary-title-color);
+        background: var(--accent-color);
 }
 .button:active{
         color: var(--secondary-title-color);
